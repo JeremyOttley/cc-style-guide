@@ -1,0 +1,30 @@
+= Font(s)
+
+== *Primary Font: Source Sans Pro*
+
+Source Sans Pro | _Source Sans Pro_ | *Source Sans Pro*
+
+“Source Sans Pro is an open-source grotesque typeface designed by Paul D. Hunt for Adobe Systems...The slightly condensed letterforms of Source Sans Pro make it ideal for user interfaces where space is a concern. It’s available in a full set of six weights with corresponding italics.”
+
+This font is particularly easy to read, both on the web and in print. Therefore, it should be used as
+the primary font for correspondence and communications.
+
+_Source: Source Sans Pro. (2019). Retrieved from_ typewolf.com/site-of-the-day/fonts/source-sans-pro
+
+== *Secondary Font: Roboto*
+
+Roboto | _Roboto_ | *Roboto*
+
+“Roboto is an open-source, grotesque sans-serif typeface designed by Christian Robertson in 2011 and released through Google...it renders crisply on screens and is very legible, even at smaller sizes. Roboto is the default font used in Google Maps and Google+.”
+
+Similar to Source Sans Pro, Roboto is also easy to read. Therefore, it can be used for correspondence and communications when desired.
+
+_Source: Roboto. (2019). Retrieved from_ typewolf.com/site-of-the-day/fonts/roboto
+
+== *Secondary Font: CC Accidenz Commons*
+
+*CC Accidenz Commons*
+
+CC Accidenz Commons is an open-licensed font designed specifically for Creative Commons and can be used and/or remixed by anyone. It was designed in 2018 by Archetypo, a research and type design collective based in Germany and Chile to replace Akzidenz Grotesk—the original font in CC’s logo. You can download the font from our https://creativecommons.org/about/downloads/[“Downloads”] page.
+
+_Learn more about this font in “https://creativecommons.org/2019/10/28/accidenz-commons-open-licensed-font/[Introducing CC Accidenz Commons: An Open Licensed Font].”_
