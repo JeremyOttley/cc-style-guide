@@ -1,3 +1,3 @@
 = creative commons Style Guide | 2019
 
-image::logo.png[Creative Commons Logo with color palette]
+image::logo.png[Creative Commons Logo with color palette,192,132]
