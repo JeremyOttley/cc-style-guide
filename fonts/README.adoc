@@ -27,4 +27,4 @@ _Source: Roboto. (2019). Retrieved from_ typewolf.com/site-of-the-day/fonts/robo
 
 CC Accidenz Commons is an open-licensed font designed specifically for Creative Commons and can be used and/or remixed by anyone. It was designed in 2018 by Archetypo, a research and type design collective based in Germany and Chile to replace Akzidenz Grotesk—the original font in CC’s logo. You can download the font from our https://creativecommons.org/about/downloads/[“Downloads”] page.
 
-_Learn more about this font in “https://creativecommons.org/2019/10/28/accidenz-commons-open-licensed-font/[Introducing CC Accidenz Commons: An Open Licensed Font].”_
+_Learn more about this font in https://creativecommons.org/2019/10/28/accidenz-commons-open-licensed-font/[Introducing CC Accidenz Commons: An Open Licensed Font]._
